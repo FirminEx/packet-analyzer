@@ -1,0 +1,462 @@
+
+
+0000 c0 e4 34 39 a0 3b 0a  c5 e1 c4 74 12 08 00 45 00 
+0010 00 81 a2 45 40 00 40  11 c0 64 c0 a8 2b 01 c0 a8 
+0020 2b 70 00 35 b1 3f 00  6d 15 75 f0 35 81 83 00 01 
+0030 00 00 00 01 00 00 04  74 65 73 74 03 65 64 75 00 
+0040 00 01 00 01 c0 11 00  06 00 01 00 00 03 84 00 3f 
+0050 01 61 0b 65 64 75 2d  73 65 72 76 65 72 73 03 6e 
+0060 65 74 00 05 6e 73 74  6c 64 0c 76 65 72 69 73 69 
+0070 67 6e 2d 67 72 73 03  63 6f 6d 00 61 b3 67 b5 00 
+0080 00 07 08 00 00 03 84  00 09 3a 80 00 01 51 80 
+
+
+Ethernet II 
+    Destination : (c0:e4:34:39:a0:3b)
+    Source Address : (0a:c5:e1:c4:74:12)
+    IPv4 (0x0800)
+
+Internet Protocol
+    Version : 4
+    IP Header Length : 20 bytes (5)
+    Tos : 0x00
+    Total Length : 129
+    Identifier : 0xa245
+    Flags : 0x4
+    Fragment offset : 0
+    Time to Live : 64
+    Protocol : UDP (17)
+    Checksum : Oxc064
+    Source Address : 192.168.43.1
+    Destination Address : 192.168.43.112
+
+User Datagram Protocol, Src Port : 53, Dst Port : 45375
+    Source Port : 53
+    Destination Port : 45375
+    Length: 0x006d (109 Bytes)
+    Checksum : Ox1575
+
+    Domain Name System
+        Transaction ID: 0xf035
+        Flags : 0x8183
+               Message is a query (0)
+               Query (0)
+               No value, message is a query (0)
+               Not Truncated
+               Recursion Not Desired
+               No value, message is a query (0)
+               Reserved (000)
+               Format Error (1)
+        Questions: 1
+        Answer RRs: 0
+        Authority RRs: 1
+        Additional RRS: 0
+        Queries: 
+                 test.edu
+                 RRType: A
+                 Class: INTERNET
+                
+        Answers: 
+                
+        Authority:
+                 Name: edu
+                Type: SOA
+                Class: INTERNET
+                Time to live: 900 (s)
+                Data length: 63 bytes
+                Data: Name 1, Name 2, 4 tuples: a.edu-servers.net
+nstld.verisign-grs.com
+-2147480593
+2147483647
+2147483647
+2147483647
+2147483647
+
+                
+        Additional Records: 
+----------------------------------------------------------------------------------
+
+
+0000 c0 e4 34 39 a0 3b 0a  c5 e1 c4 74 12 08 00 45 00 
+0010 00 81 a2 45 40 00 40  11 c0 64 c0 a8 2b 01 c0 a8 
+0020 2b 70 00 35 b1 3f 00  6d 15 75 f0 35 81 83 00 01 
+0030 00 00 00 01 00 00 04  74 65 73 74 03 65 64 75 00 
+0040 00 01 00 01 c0 11 00  06 00 01 00 00 03 84 00 3f 
+0050 01 61 0b 65 64 75 2d  73 65 72 76 65 72 73 03 6e 
+0060 65 74 00 05 6e 73 74  6c 64 0c 76 65 72 69 73 69 
+0070 67 6e 2d 67 72 73 03  63 6f 6d 00 61 b3 67 b5 00 
+0080 00 07 08 00 00 03 84  00 09 3a 80 00 01 51 80 
+
+
+Ethernet II 
+    Destination : (c0:e4:34:39:a0:3b)
+    Source Address : (0a:c5:e1:c4:74:12)
+    IPv4 (0x0800)
+
+Internet Protocol
+    Version : 4
+    IP Header Length : 20 bytes (5)
+    Tos : 0x00
+    Total Length : 129
+    Identifier : 0xa245
+    Flags : 0x4
+    Fragment offset : 0
+    Time to Live : 64
+    Protocol : UDP (17)
+    Checksum : Oxc064
+    Source Address : 192.168.43.1
+    Destination Address : 192.168.43.112
+
+User Datagram Protocol, Src Port : 53, Dst Port : 45375
+    Source Port : 53
+    Destination Port : 45375
+    Length: 0x006d (109 Bytes)
+    Checksum : Ox1575
+
+    Domain Name System
+        Transaction ID: 0xf035
+        Flags : 0x8183
+               Message is a query (0)
+               Query (0)
+               No value, message is a query (0)
+               Not Truncated
+               Recursion Not Desired
+               No value, message is a query (0)
+               Reserved (000)
+               Format Error (1)
+        Questions: 1
+        Answer RRs: 0
+        Authority RRs: 1
+        Additional RRS: 0
+        Queries: 
+                 test.edu
+                 RRType: A
+                 Class: INTERNET
+                
+        Answers: 
+                
+        Authority:
+                 Name: edu
+                Type: SOA
+                Class: INTERNET
+                Time to live: 900 (s)
+                Data length: 63 bytes
+                Data: Name 1, Name 2, 4 tuples: a.edu-servers.net
+nstld.verisign-grs.com
+-2147480593
+2147483647
+2147483647
+2147483647
+2147483647
+
+                
+        Additional Records: 
+----------------------------------------------------------------------------------
+
+
+0000 c0 e4 34 39 a0 3b 0a  c5 e1 c4 74 12 08 00 45 00 
+0010 00 81 a2 45 40 00 40  11 c0 64 c0 a8 2b 01 c0 a8 
+0020 2b 70 00 35 b1 3f 00  6d 15 75 f0 35 81 83 00 01 
+0030 00 00 00 01 00 00 04  74 65 73 74 03 65 64 75 00 
+0040 00 01 00 01 c0 11 00  06 00 01 00 00 03 84 00 3f 
+0050 01 61 0b 65 64 75 2d  73 65 72 76 65 72 73 03 6e 
+0060 65 74 00 05 6e 73 74  6c 64 0c 76 65 72 69 73 69 
+0070 67 6e 2d 67 72 73 03  63 6f 6d 00 61 b3 67 b5 00 
+0080 00 07 08 00 00 03 84  00 09 3a 80 00 01 51 80 
+
+
+Ethernet II 
+    Destination : (c0:e4:34:39:a0:3b)
+    Source Address : (0a:c5:e1:c4:74:12)
+    IPv4 (0x0800)
+
+Internet Protocol
+    Version : 4
+    IP Header Length : 20 bytes (5)
+    Tos : 0x00
+    Total Length : 129
+    Identifier : 0xa245
+    Flags : 0x4
+    Fragment offset : 0
+    Time to Live : 64
+    Protocol : UDP (17)
+    Checksum : Oxc064
+    Source Address : 192.168.43.1
+    Destination Address : 192.168.43.112
+
+User Datagram Protocol, Src Port : 53, Dst Port : 45375
+    Source Port : 53
+    Destination Port : 45375
+    Length: 0x006d (109 Bytes)
+    Checksum : Ox1575
+
+    Domain Name System
+        Transaction ID: 0xf035
+        Flags : 0x8183
+               Message is a query (0)
+               Query (0)
+               No value, message is a query (0)
+               Not Truncated
+               Recursion Not Desired
+               No value, message is a query (0)
+               Reserved (000)
+               Format Error (1)
+        Questions: 1
+        Answer RRs: 0
+        Authority RRs: 1
+        Additional RRS: 0
+        Queries: 
+                 test.edu
+                 RRType: A
+                 Class: INTERNET
+                
+        Answers: 
+                
+        Authority:
+                 Name: edu
+                Type: SOA
+                Class: INTERNET
+                Time to live: 900 (s)
+                Data length: 63 bytes
+                Data: Name 1, Name 2, 4 tuples: a.edu-servers.net
+nstld.verisign-grs.com
+-2147480593
+2147483647
+2147483647
+2147483647
+2147483647
+
+                
+        Additional Records: 
+----------------------------------------------------------------------------------
+
+
+0000 c0 e4 34 39 a0 3b 0a  c5 e1 c4 74 12 08 00 45 00 
+0010 00 81 a2 45 40 00 40  11 c0 64 c0 a8 2b 01 c0 a8 
+0020 2b 70 00 35 b1 3f 00  6d 15 75 f0 35 81 83 00 01 
+0030 00 00 00 01 00 00 04  74 65 73 74 03 65 64 75 00 
+0040 00 01 00 01 c0 11 00  06 00 01 00 00 03 84 00 3f 
+0050 01 61 0b 65 64 75 2d  73 65 72 76 65 72 73 03 6e 
+0060 65 74 00 05 6e 73 74  6c 64 0c 76 65 72 69 73 69 
+0070 67 6e 2d 67 72 73 03  63 6f 6d 00 61 b3 67 b5 00 
+0080 00 07 08 00 00 03 84  00 09 3a 80 00 01 51 80 
+
+
+Ethernet II 
+    Destination : (c0:e4:34:39:a0:3b)
+    Source Address : (0a:c5:e1:c4:74:12)
+    IPv4 (0x0800)
+
+Internet Protocol
+    Version : 4
+    IP Header Length : 20 bytes (5)
+    Tos : 0x00
+    Total Length : 129
+    Identifier : 0xa245
+    Flags : 0x4
+    Fragment offset : 0
+    Time to Live : 64
+    Protocol : UDP (17)
+    Checksum : Oxc064
+    Source Address : 192.168.43.1
+    Destination Address : 192.168.43.112
+
+User Datagram Protocol, Src Port : 53, Dst Port : 45375
+    Source Port : 53
+    Destination Port : 45375
+    Length: 0x006d (109 Bytes)
+    Checksum : Ox1575
+
+    Domain Name System
+        Transaction ID: 0xf035
+        Flags : 0x8183
+               Message is a query (0)
+               Query (0)
+               No value, message is a query (0)
+               Not Truncated
+               Recursion Not Desired
+               No value, message is a query (0)
+               Reserved (000)
+               Format Error (1)
+        Questions: 1
+        Answer RRs: 0
+        Authority RRs: 1
+        Additional RRS: 0
+        Queries: 
+                 test.edu
+                 RRType: A
+                 Class: INTERNET
+                
+        Answers: 
+                
+        Authority:
+                 Name: edu
+                Type: SOA
+                Class: INTERNET
+                Time to live: 900 (s)
+                Data length: 63 bytes
+                Data: Name 1, Name 2, 4 tuples: a.edu-servers.net
+nstld.verisign-grs.com
+-2147480593
+2147483647
+2147483647
+2147483647
+2147483647
+
+                
+        Additional Records: 
+----------------------------------------------------------------------------------
+
+
+0000 c0 e4 34 39 a0 3b 0a  c5 e1 c4 74 12 08 00 45 00 
+0010 00 81 a2 45 40 00 40  11 c0 64 c0 a8 2b 01 c0 a8 
+0020 2b 70 00 35 b1 3f 00  6d 15 75 f0 35 81 83 00 01 
+0030 00 00 00 01 00 00 04  74 65 73 74 03 65 64 75 00 
+0040 00 01 00 01 c0 11 00  06 00 01 00 00 03 84 00 3f 
+0050 01 61 0b 65 64 75 2d  73 65 72 76 65 72 73 03 6e 
+0060 65 74 00 05 6e 73 74  6c 64 0c 76 65 72 69 73 69 
+0070 67 6e 2d 67 72 73 03  63 6f 6d 00 61 b3 67 b5 00 
+0080 00 07 08 00 00 03 84  00 09 3a 80 00 01 51 80 
+
+
+Ethernet II 
+    Destination : (c0:e4:34:39:a0:3b)
+    Source Address : (0a:c5:e1:c4:74:12)
+    IPv4 (0x0800)
+
+Internet Protocol
+    Version : 4
+    IP Header Length : 20 bytes (5)
+    Tos : 0x00
+    Total Length : 129
+    Identifier : 0xa245
+    Flags : 0x4
+    Fragment offset : 0
+    Time to Live : 64
+    Protocol : UDP (17)
+    Checksum : Oxc064
+    Source Address : 192.168.43.1
+    Destination Address : 192.168.43.112
+
+User Datagram Protocol, Src Port : 53, Dst Port : 45375
+    Source Port : 53
+    Destination Port : 45375
+    Length: 0x006d (109 Bytes)
+    Checksum : Ox1575
+
+    Domain Name System
+        Transaction ID: 0xf035
+        Flags : 0x8183
+               Message is a query (0)
+               Query (0)
+               No value, message is a query (0)
+               Not Truncated
+               Recursion Not Desired
+               No value, message is a query (0)
+               Reserved (000)
+               Format Error (1)
+        Questions: 1
+        Answer RRs: 0
+        Authority RRs: 1
+        Additional RRS: 0
+        Queries: 
+                 test.edu
+                 RRType: A
+                 Class: INTERNET
+                
+        Answers: 
+                
+        Authority:
+                 Name: edu
+                Type: SOA
+                Class: INTERNET
+                Time to live: 900 (s)
+                Data length: 63 bytes
+                Data: Name 1, Name 2, 4 tuples: a.edu-servers.net
+nstld.verisign-grs.com
+-2147480593
+2147483647
+2147483647
+2147483647
+2147483647
+
+                
+        Additional Records: 
+----------------------------------------------------------------------------------
+
+
+0000 c0 e4 34 39 a0 3b 0a  c5 e1 c4 74 12 08 00 45 00 
+0010 00 81 a2 45 40 00 40  11 c0 64 c0 a8 2b 01 c0 a8 
+0020 2b 70 00 35 b1 3f 00  6d 15 75 f0 35 81 83 00 01 
+0030 00 00 00 01 00 00 04  74 65 73 74 03 65 64 75 00 
+0040 00 01 00 01 c0 11 00  06 00 01 00 00 03 84 00 3f 
+0050 01 61 0b 65 64 75 2d  73 65 72 76 65 72 73 03 6e 
+0060 65 74 00 05 6e 73 74  6c 64 0c 76 65 72 69 73 69 
+0070 67 6e 2d 67 72 73 03  63 6f 6d 00 61 b3 67 b5 00 
+0080 00 07 08 00 00 03 84  00 09 3a 80 00 01 51 80 
+
+
+Ethernet II 
+    Destination : (c0:e4:34:39:a0:3b)
+    Source Address : (0a:c5:e1:c4:74:12)
+    IPv4 (0x0800)
+
+Internet Protocol
+    Version : 4
+    IP Header Length : 20 bytes (5)
+    Tos : 0x00
+    Total Length : 129
+    Identifier : 0xa245
+    Flags : 0x4
+    Fragment offset : 0
+    Time to Live : 64
+    Protocol : UDP (17)
+    Checksum : Oxc064
+    Source Address : 192.168.43.1
+    Destination Address : 192.168.43.112
+
+User Datagram Protocol, Src Port : 53, Dst Port : 45375
+    Source Port : 53
+    Destination Port : 45375
+    Length: 0x006d (109 Bytes)
+    Checksum : Ox1575
+
+    Domain Name System
+        Transaction ID: 0xf035
+        Flags : 0x8183
+               Message is a query (0)
+               Query (0)
+               No value, message is a query (0)
+               Not Truncated
+               Recursion Not Desired
+               No value, message is a query (0)
+               Reserved (000)
+               Format Error (1)
+        Questions: 1
+        Answer RRs: 0
+        Authority RRs: 1
+        Additional RRS: 0
+        Queries: 
+                 test.edu
+                 RRType: A
+                 Class: INTERNET
+                
+        Answers: 
+                
+        Authority:
+                 Name: edu
+                Type: SOA
+                Class: INTERNET
+                Time to live: 900 (s)
+                Data length: 63 bytes
+                Data: Name 1, Name 2, 4 tuples: a.edu-servers.net
+nstld.verisign-grs.com
+-2147480593
+2147483647
+2147483647
+2147483647
+2147483647
+
+                
+        Additional Records: 
+----------------------------------------------------------------------------------

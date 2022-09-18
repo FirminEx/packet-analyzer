@@ -1,0 +1,13 @@
+Structure du projet
+
+Classes:
+	- Offset -> class gérant les offsets	
+	- Byte -> stock les bytes ainsi que leur positions et donnes accès á leur méthodes. Permet la manipulation de String de byte et de bit grâce aux méthodes static.
+	- Label -> gères les labels dans qui composent les names dans DNS
+	- Name -> gère les names à partir de labels. Label et names fontionnent ensemble pour garder en mémoire les labels déjà lus, afin d'être compatible avec la compression de DNS
+	- Options -> permet de gérer toutes les options de DHCP
+	- TraceReader -> lis et donne les informations d'un fichier
+	- Trace -> instancie un objet comportant la liste des offset ainsi que celles des bytes
+	- DHCP, DNS, IP, ETHERNET, UDP -> classe permettant de déchiffrer la liste de byte de Trace
+	
+Main essaie d'ouvrir le fichier donné en paramètre puis lance une boucle principale, qui permet de lire les différentes trames du fichier qui seront print dans la console et dans un fichier texte rangé dans le dossier Reseau. Pour quitter le programme l'utilisateur rentre "-1"

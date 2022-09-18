@@ -1,0 +1,1497 @@
+
+
+0000 c0 e4 34 39 a0 3b 0a  c5 e1 c4 74 12 08 00 45 00 
+0010 01 40 9b 16 40 00 40  11 c6 d4 c0 a8 2b 01 c0 a8 
+0020 2b 70 00 35 b5 e9 01  2c cc 26 2f 1a 81 80 00 01 
+0030 00 10 00 00 00 00 03  77 77 77 0a 67 6f 6f 67 6c 
+0040 65 61 70 69 73 03 63  6f 6d 00 00 01 00 01 c0 0c 
+0050 00 01 00 01 00 00 00  29 00 04 d8 3a cc 6a c0 0c 
+0060 00 01 00 01 00 00 00  29 00 04 d8 3a c9 ea c0 0c 
+0070 00 01 00 01 00 00 00  29 00 04 d8 3a cc 8a c0 0c 
+0080 00 01 00 01 00 00 00  29 00 04 8e fa b3 4a c0 0c 
+0090 00 01 00 01 00 00 00  29 00 04 ac d9 12 ca c0 0c 
+00a0 00 01 00 01 00 00 00  29 00 04 d8 3a d5 aa c0 0c 
+00b0 00 01 00 01 00 00 00  29 00 04 8e fa c9 aa c0 0c 
+00c0 00 01 00 01 00 00 00  29 00 04 d8 3a d1 ea c0 0c 
+00d0 00 01 00 01 00 00 00  29 00 04 d8 3a c6 ca c0 0c 
+00e0 00 01 00 01 00 00 00  29 00 04 d8 3a d6 aa c0 0c 
+00f0 00 01 00 01 00 00 00  29 00 04 d8 3a ce ea c0 0c 
+0100 00 01 00 01 00 00 00  29 00 04 8e fa b2 8a c0 0c 
+0110 00 01 00 01 00 00 00  29 00 04 8e fa 4a ea c0 0c 
+0120 00 01 00 01 00 00 00  29 00 04 8e fa 4b ea c0 0c 
+0130 00 01 00 01 00 00 00  29 00 04 d8 3a d5 8a c0 0c 
+0140 00 01 00 01 00 00 00  29 00 04 8e fa b3 6a 
+
+
+Ethernet II 
+    Destination : (c0:e4:34:39:a0:3b)
+    Source Address : (0a:c5:e1:c4:74:12)
+    IPv4 (0x0800)
+
+Internet Protocol
+    Version : 4
+    IP Header Length : 20 bytes (5)
+    Tos : 0x00
+    Total Length : 320
+    Identifier : 0x9b16
+    Flags : 0x4
+    Fragment offset : 0
+    Time to Live : 64
+    Protocol : UDP (17)
+    Checksum : Oxc6d4
+    Source Address : 192.168.43.1
+    Destination Address : 192.168.43.112
+
+User Datagram Protocol, Src Port : 53, Dst Port : 46569
+    Source Port : 53
+    Destination Port : 46569
+    Length: 0x012c (300 Bytes)
+    Checksum : Oxcc26
+----------------------------------------------------------------------------------
+
+
+0000 c0 e4 34 39 a0 3b 0a  c5 e1 c4 74 12 08 00 45 00 
+0010 00 69 9e c4 40 00 40  11 c3 fd c0 a8 2b 01 c0 a8 
+0020 2b 70 00 35 af f4 00  55 c9 6d ee 65 81 80 00 01 
+0030 00 02 00 00 00 00 08  63 6c 69 65 6e 74 73 34 06 
+0040 67 6f 6f 67 6c 65 03  63 6f 6d 00 00 01 00 01 c0 
+0050 0c 00 05 00 01 00 00  00 52 00 0c 07 63 6c 69 65 
+0060 6e 74 73 01 6c c0 15  c0 31 00 01 00 01 00 00 00 
+0070 c1 00 04 d8 3a d7 2e 
+
+
+Ethernet II 
+    Destination : (c0:e4:34:39:a0:3b)
+    Source Address : (0a:c5:e1:c4:74:12)
+    IPv4 (0x0800)
+
+Internet Protocol
+    Version : 4
+    IP Header Length : 20 bytes (5)
+    Tos : 0x00
+    Total Length : 105
+    Identifier : 0x9ec4
+    Flags : 0x4
+    Fragment offset : 0
+    Time to Live : 64
+    Protocol : UDP (17)
+    Checksum : Oxc3fd
+    Source Address : 192.168.43.1
+    Destination Address : 192.168.43.112
+
+User Datagram Protocol, Src Port : 53, Dst Port : 45044
+    Source Port : 53
+    Destination Port : 45044
+    Length: 0x0055 (85 Bytes)
+    Checksum : Oxc96d
+----------------------------------------------------------------------------------
+
+
+0000 c0 e4 34 39 a0 3b 0a  c5 e1 c4 74 12 08 00 45 00 
+0010 00 74 a1 42 40 00 40  11 c1 74 c0 a8 2b 01 c0 a8 
+0020 2b 70 00 35 bc 3b 00  60 b7 ca d4 74 81 80 00 01 
+0030 00 02 00 00 00 00 03  6c 68 33 11 67 6f 6f 67 6c 
+0040 65 75 73 65 72 63 6f  6e 74 65 6e 74 03 63 6f 6d 
+0050 00 00 01 00 01 c0 0c  00 05 00 01 00 01 4d 08 00 
+0060 11 0c 67 6f 6f 67 6c  65 68 6f 73 74 65 64 01 6c 
+0070 c0 10 c0 37 00 01 00  01 00 00 00 4c 00 04 ac d9 
+0080 16 81 
+
+
+Ethernet II 
+    Destination : (c0:e4:34:39:a0:3b)
+    Source Address : (0a:c5:e1:c4:74:12)
+    IPv4 (0x0800)
+
+Internet Protocol
+    Version : 4
+    IP Header Length : 20 bytes (5)
+    Tos : 0x00
+    Total Length : 116
+    Identifier : 0xa142
+    Flags : 0x4
+    Fragment offset : 0
+    Time to Live : 64
+    Protocol : UDP (17)
+    Checksum : Oxc174
+    Source Address : 192.168.43.1
+    Destination Address : 192.168.43.112
+
+User Datagram Protocol, Src Port : 53, Dst Port : 48187
+    Source Port : 53
+    Destination Port : 48187
+    Length: 0x0060 (96 Bytes)
+    Checksum : Oxb7ca
+----------------------------------------------------------------------------------
+
+
+0000 c0 e4 34 39 a0 3b 0a  c5 e1 c4 74 12 08 00 45 00 
+0010 01 40 9b 16 40 00 40  11 c6 d4 c0 a8 2b 01 c0 a8 
+0020 2b 70 00 35 b5 e9 01  2c cc 26 2f 1a 81 80 00 01 
+0030 00 10 00 00 00 00 03  77 77 77 0a 67 6f 6f 67 6c 
+0040 65 61 70 69 73 03 63  6f 6d 00 00 01 00 01 c0 0c 
+0050 00 01 00 01 00 00 00  29 00 04 d8 3a cc 6a c0 0c 
+0060 00 01 00 01 00 00 00  29 00 04 d8 3a c9 ea c0 0c 
+0070 00 01 00 01 00 00 00  29 00 04 d8 3a cc 8a c0 0c 
+0080 00 01 00 01 00 00 00  29 00 04 8e fa b3 4a c0 0c 
+0090 00 01 00 01 00 00 00  29 00 04 ac d9 12 ca c0 0c 
+00a0 00 01 00 01 00 00 00  29 00 04 d8 3a d5 aa c0 0c 
+00b0 00 01 00 01 00 00 00  29 00 04 8e fa c9 aa c0 0c 
+00c0 00 01 00 01 00 00 00  29 00 04 d8 3a d1 ea c0 0c 
+00d0 00 01 00 01 00 00 00  29 00 04 d8 3a c6 ca c0 0c 
+00e0 00 01 00 01 00 00 00  29 00 04 d8 3a d6 aa c0 0c 
+00f0 00 01 00 01 00 00 00  29 00 04 d8 3a ce ea c0 0c 
+0100 00 01 00 01 00 00 00  29 00 04 8e fa b2 8a c0 0c 
+0110 00 01 00 01 00 00 00  29 00 04 8e fa 4a ea c0 0c 
+0120 00 01 00 01 00 00 00  29 00 04 8e fa 4b ea c0 0c 
+0130 00 01 00 01 00 00 00  29 00 04 d8 3a d5 8a c0 0c 
+0140 00 01 00 01 00 00 00  29 00 04 8e fa b3 6a 
+
+
+Ethernet II 
+    Destination : (c0:e4:34:39:a0:3b)
+    Source Address : (0a:c5:e1:c4:74:12)
+    IPv4 (0x0800)
+
+Internet Protocol
+    Version : 4
+    IP Header Length : 20 bytes (5)
+    Tos : 0x00
+    Total Length : 320
+    Identifier : 0x9b16
+    Flags : 0x4
+    Fragment offset : 0
+    Time to Live : 64
+    Protocol : UDP (17)
+    Checksum : Oxc6d4
+    Source Address : 192.168.43.1
+    Destination Address : 192.168.43.112
+
+User Datagram Protocol, Src Port : 53, Dst Port : 46569
+    Source Port : 53
+    Destination Port : 46569
+    Length: 0x012c (300 Bytes)
+    Checksum : Oxcc26
+
+    Domain Name System
+        Transaction ID: 0x2f1a
+        Flags : 0x8180
+               Message is a query (0)
+               Query (0)
+               No value, message is a query (0)
+               Not Truncated
+               Recursion Not Desired
+               No value, message is a query (0)
+               Reserved (000)
+               No Error (0)
+        Questions: 1
+        Answer RRs: 16
+        Authority RRs: 0
+        Additional RRS: 0
+        Queries: 
+                 www.googleapis.com
+                 RRType: A
+                 Class: INTERNET
+                
+        Answers: 
+                Name: www.googleapis.com
+                Type: A
+                Class: INTERNET
+                Time to live: 41 (s)
+                Data length: 4 bytes
+                Data: IPv4 Address: 216.58.204.106
+
+                Name: www.googleapis.com
+                Type: A
+                Class: INTERNET
+                Time to live: 41 (s)
+                Data length: 4 bytes
+                Data: IPv4 Address: 216.58.201.234
+
+                Name: www.googleapis.com
+                Type: A
+                Class: INTERNET
+                Time to live: 41 (s)
+                Data length: 4 bytes
+                Data: IPv4 Address: 216.58.204.138
+
+                Name: www.googleapis.com
+                Type: A
+                Class: INTERNET
+                Time to live: 41 (s)
+                Data length: 4 bytes
+                Data: IPv4 Address: 142.250.179.74
+
+                Name: www.googleapis.com
+                Type: A
+                Class: INTERNET
+                Time to live: 41 (s)
+                Data length: 4 bytes
+                Data: IPv4 Address: 172.217.18.202
+
+                Name: www.googleapis.com
+                Type: A
+                Class: INTERNET
+                Time to live: 41 (s)
+                Data length: 4 bytes
+                Data: IPv4 Address: 216.58.213.170
+
+                Name: www.googleapis.com
+                Type: A
+                Class: INTERNET
+                Time to live: 41 (s)
+                Data length: 4 bytes
+                Data: IPv4 Address: 142.250.201.170
+
+                Name: www.googleapis.com
+                Type: A
+                Class: INTERNET
+                Time to live: 41 (s)
+                Data length: 4 bytes
+                Data: IPv4 Address: 216.58.209.234
+
+                Name: www.googleapis.com
+                Type: A
+                Class: INTERNET
+                Time to live: 41 (s)
+                Data length: 4 bytes
+                Data: IPv4 Address: 216.58.198.202
+
+                Name: www.googleapis.com
+                Type: A
+                Class: INTERNET
+                Time to live: 41 (s)
+                Data length: 4 bytes
+                Data: IPv4 Address: 216.58.214.170
+
+                Name: www.googleapis.com
+                Type: A
+                Class: INTERNET
+                Time to live: 41 (s)
+                Data length: 4 bytes
+                Data: IPv4 Address: 216.58.206.234
+
+                Name: www.googleapis.com
+                Type: A
+                Class: INTERNET
+                Time to live: 41 (s)
+                Data length: 4 bytes
+                Data: IPv4 Address: 142.250.178.138
+
+                Name: www.googleapis.com
+                Type: A
+                Class: INTERNET
+                Time to live: 41 (s)
+                Data length: 4 bytes
+                Data: IPv4 Address: 142.250.74.234
+
+                Name: www.googleapis.com
+                Type: A
+                Class: INTERNET
+                Time to live: 41 (s)
+                Data length: 4 bytes
+                Data: IPv4 Address: 142.250.75.234
+
+                Name: www.googleapis.com
+                Type: A
+                Class: INTERNET
+                Time to live: 41 (s)
+                Data length: 4 bytes
+                Data: IPv4 Address: 216.58.213.138
+
+                Name: www.googleapis.com
+                Type: A
+                Class: INTERNET
+                Time to live: 41 (s)
+                Data length: 4 bytes
+                Data: IPv4 Address: 142.250.179.106
+
+                
+        Authority:
+                 
+        Additional Records: 
+----------------------------------------------------------------------------------
+
+
+0000 c0 e4 34 39 a0 3b 0a  c5 e1 c4 74 12 08 00 45 00 
+0010 00 69 9e c4 40 00 40  11 c3 fd c0 a8 2b 01 c0 a8 
+0020 2b 70 00 35 af f4 00  55 c9 6d ee 65 81 80 00 01 
+0030 00 02 00 00 00 00 08  63 6c 69 65 6e 74 73 34 06 
+0040 67 6f 6f 67 6c 65 03  63 6f 6d 00 00 01 00 01 c0 
+0050 0c 00 05 00 01 00 00  00 52 00 0c 07 63 6c 69 65 
+0060 6e 74 73 01 6c c0 15  c0 31 00 01 00 01 00 00 00 
+0070 c1 00 04 d8 3a d7 2e 
+
+
+Ethernet II 
+    Destination : (c0:e4:34:39:a0:3b)
+    Source Address : (0a:c5:e1:c4:74:12)
+    IPv4 (0x0800)
+
+Internet Protocol
+    Version : 4
+    IP Header Length : 20 bytes (5)
+    Tos : 0x00
+    Total Length : 105
+    Identifier : 0x9ec4
+    Flags : 0x4
+    Fragment offset : 0
+    Time to Live : 64
+    Protocol : UDP (17)
+    Checksum : Oxc3fd
+    Source Address : 192.168.43.1
+    Destination Address : 192.168.43.112
+
+User Datagram Protocol, Src Port : 53, Dst Port : 45044
+    Source Port : 53
+    Destination Port : 45044
+    Length: 0x0055 (85 Bytes)
+    Checksum : Oxc96d
+
+    Domain Name System
+        Transaction ID: 0xee65
+        Flags : 0x8180
+               Message is a query (0)
+               Query (0)
+               No value, message is a query (0)
+               Not Truncated
+               Recursion Not Desired
+               No value, message is a query (0)
+               Reserved (000)
+               No Error (0)
+        Questions: 1
+        Answer RRs: 2
+        Authority RRs: 0
+        Additional RRS: 0
+        Queries: 
+                 clients4.google.com
+                 RRType: A
+                 Class: INTERNET
+                
+        Answers: 
+                Name: clients4.google.com
+                Type: CNAME
+                Class: INTERNET
+                Time to live: 82 (s)
+                Data length: 12 bytes
+                Data: CNAME: clients.l.google.com
+
+                Name: clients.l.google.com
+                Type: A
+                Class: INTERNET
+                Time to live: 193 (s)
+                Data length: 4 bytes
+                Data: IPv4 Address: 216.58.215.46
+
+                
+        Authority:
+                 
+        Additional Records: 
+----------------------------------------------------------------------------------
+
+
+0000 c0 e4 34 39 a0 3b 0a  c5 e1 c4 74 12 08 00 45 00 
+0010 00 74 a1 42 40 00 40  11 c1 74 c0 a8 2b 01 c0 a8 
+0020 2b 70 00 35 bc 3b 00  60 b7 ca d4 74 81 80 00 01 
+0030 00 02 00 00 00 00 03  6c 68 33 11 67 6f 6f 67 6c 
+0040 65 75 73 65 72 63 6f  6e 74 65 6e 74 03 63 6f 6d 
+0050 00 00 01 00 01 c0 0c  00 05 00 01 00 01 4d 08 00 
+0060 11 0c 67 6f 6f 67 6c  65 68 6f 73 74 65 64 01 6c 
+0070 c0 10 c0 37 00 01 00  01 00 00 00 4c 00 04 ac d9 
+0080 16 81 
+
+
+Ethernet II 
+    Destination : (c0:e4:34:39:a0:3b)
+    Source Address : (0a:c5:e1:c4:74:12)
+    IPv4 (0x0800)
+
+Internet Protocol
+    Version : 4
+    IP Header Length : 20 bytes (5)
+    Tos : 0x00
+    Total Length : 116
+    Identifier : 0xa142
+    Flags : 0x4
+    Fragment offset : 0
+    Time to Live : 64
+    Protocol : UDP (17)
+    Checksum : Oxc174
+    Source Address : 192.168.43.1
+    Destination Address : 192.168.43.112
+
+User Datagram Protocol, Src Port : 53, Dst Port : 48187
+    Source Port : 53
+    Destination Port : 48187
+    Length: 0x0060 (96 Bytes)
+    Checksum : Oxb7ca
+
+    Domain Name System
+        Transaction ID: 0xd474
+        Flags : 0x8180
+               Message is a query (0)
+               Query (0)
+               No value, message is a query (0)
+               Not Truncated
+               Recursion Not Desired
+               No value, message is a query (0)
+               Reserved (000)
+               No Error (0)
+        Questions: 1
+        Answer RRs: 2
+        Authority RRs: 0
+        Additional RRS: 0
+        Queries: 
+                 lh3.googleusercontent.com
+                 RRType: A
+                 Class: INTERNET
+                
+        Answers: 
+                Name: lh3.googleusercontent.com
+                Type: CNAME
+                Class: INTERNET
+                Time to live: 85256 (s)
+                Data length: 17 bytes
+                Data: CNAME: googlehosted.l.googleusercontent.com
+
+                Name: googlehosted.l.googleusercontent.com
+                Type: A
+                Class: INTERNET
+                Time to live: 76 (s)
+                Data length: 4 bytes
+                Data: IPv4 Address: 172.217.22.129
+
+                
+        Authority:
+                 
+        Additional Records: 
+----------------------------------------------------------------------------------
+
+
+0000 c0 e4 34 39 a0 3b 0a  c5 e1 c4 74 12 08 00 45 00 
+0010 01 40 9b 16 40 00 40  11 c6 d4 c0 a8 2b 01 c0 a8 
+0020 2b 70 00 35 b5 e9 01  2c cc 26 2f 1a 81 80 00 01 
+0030 00 10 00 00 00 00 03  77 77 77 0a 67 6f 6f 67 6c 
+0040 65 61 70 69 73 03 63  6f 6d 00 00 01 00 01 c0 0c 
+0050 00 01 00 01 00 00 00  29 00 04 d8 3a cc 6a c0 0c 
+0060 00 01 00 01 00 00 00  29 00 04 d8 3a c9 ea c0 0c 
+0070 00 01 00 01 00 00 00  29 00 04 d8 3a cc 8a c0 0c 
+0080 00 01 00 01 00 00 00  29 00 04 8e fa b3 4a c0 0c 
+0090 00 01 00 01 00 00 00  29 00 04 ac d9 12 ca c0 0c 
+00a0 00 01 00 01 00 00 00  29 00 04 d8 3a d5 aa c0 0c 
+00b0 00 01 00 01 00 00 00  29 00 04 8e fa c9 aa c0 0c 
+00c0 00 01 00 01 00 00 00  29 00 04 d8 3a d1 ea c0 0c 
+00d0 00 01 00 01 00 00 00  29 00 04 d8 3a c6 ca c0 0c 
+00e0 00 01 00 01 00 00 00  29 00 04 d8 3a d6 aa c0 0c 
+00f0 00 01 00 01 00 00 00  29 00 04 d8 3a ce ea c0 0c 
+0100 00 01 00 01 00 00 00  29 00 04 8e fa b2 8a c0 0c 
+0110 00 01 00 01 00 00 00  29 00 04 8e fa 4a ea c0 0c 
+0120 00 01 00 01 00 00 00  29 00 04 8e fa 4b ea c0 0c 
+0130 00 01 00 01 00 00 00  29 00 04 d8 3a d5 8a c0 0c 
+0140 00 01 00 01 00 00 00  29 00 04 8e fa b3 6a 
+
+
+Ethernet II 
+    Destination : (c0:e4:34:39:a0:3b)
+    Source Address : (0a:c5:e1:c4:74:12)
+    IPv4 (0x0800)
+
+Internet Protocol
+    Version : 4
+    IP Header Length : 20 bytes (5)
+    Tos : 0x00
+    Total Length : 320
+    Identifier : 0x9b16
+    Flags : 0x4
+    Fragment offset : 0
+    Time to Live : 64
+    Protocol : UDP (17)
+    Checksum : Oxc6d4
+    Source Address : 192.168.43.1
+    Destination Address : 192.168.43.112
+
+User Datagram Protocol, Src Port : 53, Dst Port : 46569
+    Source Port : 53
+    Destination Port : 46569
+    Length: 0x012c (300 Bytes)
+    Checksum : Oxcc26
+
+    Domain Name System
+        Transaction ID: 0x2f1a
+        Flags : 0x8180
+               Message is a query (0)
+               Query (0)
+               No value, message is a query (0)
+               Not Truncated
+               Recursion Not Desired
+               No value, message is a query (0)
+               Reserved (000)
+               No Error (0)
+        Questions: 1
+        Answer RRs: 16
+        Authority RRs: 0
+        Additional RRS: 0
+        Queries: 
+                 www.googleapis.com
+                 RRType: A
+                 Class: INTERNET
+                
+        Answers: 
+                Name: www.googleapis.com
+                Type: A
+                Class: INTERNET
+                Time to live: 41 (s)
+                Data length: 4 bytes
+                Data: IPv4 Address: 216.58.204.106
+
+                Name: www.googleapis.com
+                Type: A
+                Class: INTERNET
+                Time to live: 41 (s)
+                Data length: 4 bytes
+                Data: IPv4 Address: 216.58.201.234
+
+                Name: www.googleapis.com
+                Type: A
+                Class: INTERNET
+                Time to live: 41 (s)
+                Data length: 4 bytes
+                Data: IPv4 Address: 216.58.204.138
+
+                Name: www.googleapis.com
+                Type: A
+                Class: INTERNET
+                Time to live: 41 (s)
+                Data length: 4 bytes
+                Data: IPv4 Address: 142.250.179.74
+
+                Name: www.googleapis.com
+                Type: A
+                Class: INTERNET
+                Time to live: 41 (s)
+                Data length: 4 bytes
+                Data: IPv4 Address: 172.217.18.202
+
+                Name: www.googleapis.com
+                Type: A
+                Class: INTERNET
+                Time to live: 41 (s)
+                Data length: 4 bytes
+                Data: IPv4 Address: 216.58.213.170
+
+                Name: www.googleapis.com
+                Type: A
+                Class: INTERNET
+                Time to live: 41 (s)
+                Data length: 4 bytes
+                Data: IPv4 Address: 142.250.201.170
+
+                Name: www.googleapis.com
+                Type: A
+                Class: INTERNET
+                Time to live: 41 (s)
+                Data length: 4 bytes
+                Data: IPv4 Address: 216.58.209.234
+
+                Name: www.googleapis.com
+                Type: A
+                Class: INTERNET
+                Time to live: 41 (s)
+                Data length: 4 bytes
+                Data: IPv4 Address: 216.58.198.202
+
+                Name: www.googleapis.com
+                Type: A
+                Class: INTERNET
+                Time to live: 41 (s)
+                Data length: 4 bytes
+                Data: IPv4 Address: 216.58.214.170
+
+                Name: www.googleapis.com
+                Type: A
+                Class: INTERNET
+                Time to live: 41 (s)
+                Data length: 4 bytes
+                Data: IPv4 Address: 216.58.206.234
+
+                Name: www.googleapis.com
+                Type: A
+                Class: INTERNET
+                Time to live: 41 (s)
+                Data length: 4 bytes
+                Data: IPv4 Address: 142.250.178.138
+
+                Name: www.googleapis.com
+                Type: A
+                Class: INTERNET
+                Time to live: 41 (s)
+                Data length: 4 bytes
+                Data: IPv4 Address: 142.250.74.234
+
+                Name: www.googleapis.com
+                Type: A
+                Class: INTERNET
+                Time to live: 41 (s)
+                Data length: 4 bytes
+                Data: IPv4 Address: 142.250.75.234
+
+                Name: www.googleapis.com
+                Type: A
+                Class: INTERNET
+                Time to live: 41 (s)
+                Data length: 4 bytes
+                Data: IPv4 Address: 216.58.213.138
+
+                Name: www.googleapis.com
+                Type: A
+                Class: INTERNET
+                Time to live: 41 (s)
+                Data length: 4 bytes
+                Data: IPv4 Address: 142.250.179.106
+
+                
+        Authority:
+                 
+        Additional Records: 
+----------------------------------------------------------------------------------
+
+
+0000 c0 e4 34 39 a0 3b 0a  c5 e1 c4 74 12 08 00 45 00 
+0010 00 69 9e c4 40 00 40  11 c3 fd c0 a8 2b 01 c0 a8 
+0020 2b 70 00 35 af f4 00  55 c9 6d ee 65 81 80 00 01 
+0030 00 02 00 00 00 00 08  63 6c 69 65 6e 74 73 34 06 
+0040 67 6f 6f 67 6c 65 03  63 6f 6d 00 00 01 00 01 c0 
+0050 0c 00 05 00 01 00 00  00 52 00 0c 07 63 6c 69 65 
+0060 6e 74 73 01 6c c0 15  c0 31 00 01 00 01 00 00 00 
+0070 c1 00 04 d8 3a d7 2e 
+
+
+Ethernet II 
+    Destination : (c0:e4:34:39:a0:3b)
+    Source Address : (0a:c5:e1:c4:74:12)
+    IPv4 (0x0800)
+
+Internet Protocol
+    Version : 4
+    IP Header Length : 20 bytes (5)
+    Tos : 0x00
+    Total Length : 105
+    Identifier : 0x9ec4
+    Flags : 0x4
+    Fragment offset : 0
+    Time to Live : 64
+    Protocol : UDP (17)
+    Checksum : Oxc3fd
+    Source Address : 192.168.43.1
+    Destination Address : 192.168.43.112
+
+User Datagram Protocol, Src Port : 53, Dst Port : 45044
+    Source Port : 53
+    Destination Port : 45044
+    Length: 0x0055 (85 Bytes)
+    Checksum : Oxc96d
+
+    Domain Name System
+        Transaction ID: 0xee65
+        Flags : 0x8180
+               Message is a query (0)
+               Query (0)
+               No value, message is a query (0)
+               Not Truncated
+               Recursion Not Desired
+               No value, message is a query (0)
+               Reserved (000)
+               No Error (0)
+        Questions: 1
+        Answer RRs: 2
+        Authority RRs: 0
+        Additional RRS: 0
+        Queries: 
+                 clients4.google.com
+                 RRType: A
+                 Class: INTERNET
+                
+        Answers: 
+                Name: clients4.google.com
+                Type: CNAME
+                Class: INTERNET
+                Time to live: 82 (s)
+                Data length: 12 bytes
+                Data: CNAME: clients.l.google.com
+
+                Name: clients.l.google.com
+                Type: A
+                Class: INTERNET
+                Time to live: 193 (s)
+                Data length: 4 bytes
+                Data: IPv4 Address: 216.58.215.46
+
+                
+        Authority:
+                 
+        Additional Records: 
+----------------------------------------------------------------------------------
+
+
+0000 c0 e4 34 39 a0 3b 0a  c5 e1 c4 74 12 08 00 45 00 
+0010 00 74 a1 42 40 00 40  11 c1 74 c0 a8 2b 01 c0 a8 
+0020 2b 70 00 35 bc 3b 00  60 b7 ca d4 74 81 80 00 01 
+0030 00 02 00 00 00 00 03  6c 68 33 11 67 6f 6f 67 6c 
+0040 65 75 73 65 72 63 6f  6e 74 65 6e 74 03 63 6f 6d 
+0050 00 00 01 00 01 c0 0c  00 05 00 01 00 01 4d 08 00 
+0060 11 0c 67 6f 6f 67 6c  65 68 6f 73 74 65 64 01 6c 
+0070 c0 10 c0 37 00 01 00  01 00 00 00 4c 00 04 ac d9 
+0080 16 81 
+
+
+Ethernet II 
+    Destination : (c0:e4:34:39:a0:3b)
+    Source Address : (0a:c5:e1:c4:74:12)
+    IPv4 (0x0800)
+
+Internet Protocol
+    Version : 4
+    IP Header Length : 20 bytes (5)
+    Tos : 0x00
+    Total Length : 116
+    Identifier : 0xa142
+    Flags : 0x4
+    Fragment offset : 0
+    Time to Live : 64
+    Protocol : UDP (17)
+    Checksum : Oxc174
+    Source Address : 192.168.43.1
+    Destination Address : 192.168.43.112
+
+User Datagram Protocol, Src Port : 53, Dst Port : 48187
+    Source Port : 53
+    Destination Port : 48187
+    Length: 0x0060 (96 Bytes)
+    Checksum : Oxb7ca
+
+    Domain Name System
+        Transaction ID: 0xd474
+        Flags : 0x8180
+               Message is a query (0)
+               Query (0)
+               No value, message is a query (0)
+               Not Truncated
+               Recursion Not Desired
+               No value, message is a query (0)
+               Reserved (000)
+               No Error (0)
+        Questions: 1
+        Answer RRs: 2
+        Authority RRs: 0
+        Additional RRS: 0
+        Queries: 
+                 lh3.googleusercontent.com
+                 RRType: A
+                 Class: INTERNET
+                
+        Answers: 
+                Name: lh3.googleusercontent.com
+                Type: CNAME
+                Class: INTERNET
+                Time to live: 85256 (s)
+                Data length: 17 bytes
+                Data: CNAME: googlehosted.l.googleusercontent.com
+
+                Name: googlehosted.l.googleusercontent.com
+                Type: A
+                Class: INTERNET
+                Time to live: 76 (s)
+                Data length: 4 bytes
+                Data: IPv4 Address: 172.217.22.129
+
+                
+        Authority:
+                 
+        Additional Records: 
+----------------------------------------------------------------------------------
+
+
+0000 c0 e4 34 39 a0 3b 0a  c5 e1 c4 74 12 08 00 45 00 
+0010 01 40 9b 16 40 00 40  11 c6 d4 c0 a8 2b 01 c0 a8 
+0020 2b 70 00 35 b5 e9 01  2c cc 26 2f 1a 81 80 00 01 
+0030 00 10 00 00 00 00 03  77 77 77 0a 67 6f 6f 67 6c 
+0040 65 61 70 69 73 03 63  6f 6d 00 00 01 00 01 c0 0c 
+0050 00 01 00 01 00 00 00  29 00 04 d8 3a cc 6a c0 0c 
+0060 00 01 00 01 00 00 00  29 00 04 d8 3a c9 ea c0 0c 
+0070 00 01 00 01 00 00 00  29 00 04 d8 3a cc 8a c0 0c 
+0080 00 01 00 01 00 00 00  29 00 04 8e fa b3 4a c0 0c 
+0090 00 01 00 01 00 00 00  29 00 04 ac d9 12 ca c0 0c 
+00a0 00 01 00 01 00 00 00  29 00 04 d8 3a d5 aa c0 0c 
+00b0 00 01 00 01 00 00 00  29 00 04 8e fa c9 aa c0 0c 
+00c0 00 01 00 01 00 00 00  29 00 04 d8 3a d1 ea c0 0c 
+00d0 00 01 00 01 00 00 00  29 00 04 d8 3a c6 ca c0 0c 
+00e0 00 01 00 01 00 00 00  29 00 04 d8 3a d6 aa c0 0c 
+00f0 00 01 00 01 00 00 00  29 00 04 d8 3a ce ea c0 0c 
+0100 00 01 00 01 00 00 00  29 00 04 8e fa b2 8a c0 0c 
+0110 00 01 00 01 00 00 00  29 00 04 8e fa 4a ea c0 0c 
+0120 00 01 00 01 00 00 00  29 00 04 8e fa 4b ea c0 0c 
+0130 00 01 00 01 00 00 00  29 00 04 d8 3a d5 8a c0 0c 
+0140 00 01 00 01 00 00 00  29 00 04 8e fa b3 6a 
+
+
+Ethernet II 
+    Destination : (c0:e4:34:39:a0:3b)
+    Source Address : (0a:c5:e1:c4:74:12)
+    IPv4 (0x0800)
+
+Internet Protocol
+    Version : 4
+    IP Header Length : 20 bytes (5)
+    Tos : 0x00
+    Total Length : 320
+    Identifier : 0x9b16
+    Flags : 0x4
+    Fragment offset : 0
+    Time to Live : 64
+    Protocol : UDP (17)
+    Checksum : Oxc6d4
+    Source Address : 192.168.43.1
+    Destination Address : 192.168.43.112
+
+User Datagram Protocol, Src Port : 53, Dst Port : 46569
+    Source Port : 53
+    Destination Port : 46569
+    Length: 0x012c (300 Bytes)
+    Checksum : Oxcc26
+
+    Domain Name System
+        Transaction ID: 0x2f1a
+        Flags : 0x8180
+               Message is a query (0)
+               Query (0)
+               No value, message is a query (0)
+               Not Truncated
+               Recursion Not Desired
+               No value, message is a query (0)
+               Reserved (000)
+               No Error (0)
+        Questions: 1
+        Answer RRs: 16
+        Authority RRs: 0
+        Additional RRS: 0
+        Queries: 
+                 www.googleapis.com
+                 RRType: A
+                 Class: INTERNET
+                
+        Answers: 
+                Name: www.googleapis.com
+                Type: A
+                Class: INTERNET
+                Time to live: 41 (s)
+                Data length: 4 bytes
+                Data: IPv4 Address: 216.58.204.106
+
+                Name: www.googleapis.com
+                Type: A
+                Class: INTERNET
+                Time to live: 41 (s)
+                Data length: 4 bytes
+                Data: IPv4 Address: 216.58.201.234
+
+                Name: www.googleapis.com
+                Type: A
+                Class: INTERNET
+                Time to live: 41 (s)
+                Data length: 4 bytes
+                Data: IPv4 Address: 216.58.204.138
+
+                Name: www.googleapis.com
+                Type: A
+                Class: INTERNET
+                Time to live: 41 (s)
+                Data length: 4 bytes
+                Data: IPv4 Address: 142.250.179.74
+
+                Name: www.googleapis.com
+                Type: A
+                Class: INTERNET
+                Time to live: 41 (s)
+                Data length: 4 bytes
+                Data: IPv4 Address: 172.217.18.202
+
+                Name: www.googleapis.com
+                Type: A
+                Class: INTERNET
+                Time to live: 41 (s)
+                Data length: 4 bytes
+                Data: IPv4 Address: 216.58.213.170
+
+                Name: www.googleapis.com
+                Type: A
+                Class: INTERNET
+                Time to live: 41 (s)
+                Data length: 4 bytes
+                Data: IPv4 Address: 142.250.201.170
+
+                Name: www.googleapis.com
+                Type: A
+                Class: INTERNET
+                Time to live: 41 (s)
+                Data length: 4 bytes
+                Data: IPv4 Address: 216.58.209.234
+
+                Name: www.googleapis.com
+                Type: A
+                Class: INTERNET
+                Time to live: 41 (s)
+                Data length: 4 bytes
+                Data: IPv4 Address: 216.58.198.202
+
+                Name: www.googleapis.com
+                Type: A
+                Class: INTERNET
+                Time to live: 41 (s)
+                Data length: 4 bytes
+                Data: IPv4 Address: 216.58.214.170
+
+                Name: www.googleapis.com
+                Type: A
+                Class: INTERNET
+                Time to live: 41 (s)
+                Data length: 4 bytes
+                Data: IPv4 Address: 216.58.206.234
+
+                Name: www.googleapis.com
+                Type: A
+                Class: INTERNET
+                Time to live: 41 (s)
+                Data length: 4 bytes
+                Data: IPv4 Address: 142.250.178.138
+
+                Name: www.googleapis.com
+                Type: A
+                Class: INTERNET
+                Time to live: 41 (s)
+                Data length: 4 bytes
+                Data: IPv4 Address: 142.250.74.234
+
+                Name: www.googleapis.com
+                Type: A
+                Class: INTERNET
+                Time to live: 41 (s)
+                Data length: 4 bytes
+                Data: IPv4 Address: 142.250.75.234
+
+                Name: www.googleapis.com
+                Type: A
+                Class: INTERNET
+                Time to live: 41 (s)
+                Data length: 4 bytes
+                Data: IPv4 Address: 216.58.213.138
+
+                Name: www.googleapis.com
+                Type: A
+                Class: INTERNET
+                Time to live: 41 (s)
+                Data length: 4 bytes
+                Data: IPv4 Address: 142.250.179.106
+
+                
+        Authority:
+                 
+        Additional Records: 
+----------------------------------------------------------------------------------
+
+
+0000 c0 e4 34 39 a0 3b 0a  c5 e1 c4 74 12 08 00 45 00 
+0010 00 69 9e c4 40 00 40  11 c3 fd c0 a8 2b 01 c0 a8 
+0020 2b 70 00 35 af f4 00  55 c9 6d ee 65 81 80 00 01 
+0030 00 02 00 00 00 00 08  63 6c 69 65 6e 74 73 34 06 
+0040 67 6f 6f 67 6c 65 03  63 6f 6d 00 00 01 00 01 c0 
+0050 0c 00 05 00 01 00 00  00 52 00 0c 07 63 6c 69 65 
+0060 6e 74 73 01 6c c0 15  c0 31 00 01 00 01 00 00 00 
+0070 c1 00 04 d8 3a d7 2e 
+
+
+Ethernet II 
+    Destination : (c0:e4:34:39:a0:3b)
+    Source Address : (0a:c5:e1:c4:74:12)
+    IPv4 (0x0800)
+
+Internet Protocol
+    Version : 4
+    IP Header Length : 20 bytes (5)
+    Tos : 0x00
+    Total Length : 105
+    Identifier : 0x9ec4
+    Flags : 0x4
+    Fragment offset : 0
+    Time to Live : 64
+    Protocol : UDP (17)
+    Checksum : Oxc3fd
+    Source Address : 192.168.43.1
+    Destination Address : 192.168.43.112
+
+User Datagram Protocol, Src Port : 53, Dst Port : 45044
+    Source Port : 53
+    Destination Port : 45044
+    Length: 0x0055 (85 Bytes)
+    Checksum : Oxc96d
+
+    Domain Name System
+        Transaction ID: 0xee65
+        Flags : 0x8180
+               Message is a query (0)
+               Query (0)
+               No value, message is a query (0)
+               Not Truncated
+               Recursion Not Desired
+               No value, message is a query (0)
+               Reserved (000)
+               No Error (0)
+        Questions: 1
+        Answer RRs: 2
+        Authority RRs: 0
+        Additional RRS: 0
+        Queries: 
+                 clients4.google.com
+                 RRType: A
+                 Class: INTERNET
+                
+        Answers: 
+                Name: clients4.google.com
+                Type: CNAME
+                Class: INTERNET
+                Time to live: 82 (s)
+                Data length: 12 bytes
+                Data: CNAME: clients.l.google.com
+
+                Name: clients.l.google.com
+                Type: A
+                Class: INTERNET
+                Time to live: 193 (s)
+                Data length: 4 bytes
+                Data: IPv4 Address: 216.58.215.46
+
+                
+        Authority:
+                 
+        Additional Records: 
+----------------------------------------------------------------------------------
+
+
+0000 c0 e4 34 39 a0 3b 0a  c5 e1 c4 74 12 08 00 45 00 
+0010 00 74 a1 42 40 00 40  11 c1 74 c0 a8 2b 01 c0 a8 
+0020 2b 70 00 35 bc 3b 00  60 b7 ca d4 74 81 80 00 01 
+0030 00 02 00 00 00 00 03  6c 68 33 11 67 6f 6f 67 6c 
+0040 65 75 73 65 72 63 6f  6e 74 65 6e 74 03 63 6f 6d 
+0050 00 00 01 00 01 c0 0c  00 05 00 01 00 01 4d 08 00 
+0060 11 0c 67 6f 6f 67 6c  65 68 6f 73 74 65 64 01 6c 
+0070 c0 10 c0 37 00 01 00  01 00 00 00 4c 00 04 ac d9 
+0080 16 81 
+
+
+Ethernet II 
+    Destination : (c0:e4:34:39:a0:3b)
+    Source Address : (0a:c5:e1:c4:74:12)
+    IPv4 (0x0800)
+
+Internet Protocol
+    Version : 4
+    IP Header Length : 20 bytes (5)
+    Tos : 0x00
+    Total Length : 116
+    Identifier : 0xa142
+    Flags : 0x4
+    Fragment offset : 0
+    Time to Live : 64
+    Protocol : UDP (17)
+    Checksum : Oxc174
+    Source Address : 192.168.43.1
+    Destination Address : 192.168.43.112
+
+User Datagram Protocol, Src Port : 53, Dst Port : 48187
+    Source Port : 53
+    Destination Port : 48187
+    Length: 0x0060 (96 Bytes)
+    Checksum : Oxb7ca
+
+    Domain Name System
+        Transaction ID: 0xd474
+        Flags : 0x8180
+               Message is a query (0)
+               Query (0)
+               No value, message is a query (0)
+               Not Truncated
+               Recursion Not Desired
+               No value, message is a query (0)
+               Reserved (000)
+               No Error (0)
+        Questions: 1
+        Answer RRs: 2
+        Authority RRs: 0
+        Additional RRS: 0
+        Queries: 
+                 lh3.googleusercontent.com
+                 RRType: A
+                 Class: INTERNET
+                
+        Answers: 
+                Name: lh3.googleusercontent.com
+                Type: CNAME
+                Class: INTERNET
+                Time to live: 85256 (s)
+                Data length: 17 bytes
+                Data: CNAME: googlehosted.l.googleusercontent.com
+
+                Name: googlehosted.l.googleusercontent.com
+                Type: A
+                Class: INTERNET
+                Time to live: 76 (s)
+                Data length: 4 bytes
+                Data: IPv4 Address: 172.217.22.129
+
+                
+        Authority:
+                 
+        Additional Records: 
+----------------------------------------------------------------------------------
+
+
+0000 c0 e4 34 39 a0 3b 0a  c5 e1 c4 74 12 08 00 45 00 
+0010 01 40 9b 16 40 00 40  11 c6 d4 c0 a8 2b 01 c0 a8 
+0020 2b 70 00 35 b5 e9 01  2c cc 26 2f 1a 81 80 00 01 
+0030 00 10 00 00 00 00 03  77 77 77 0a 67 6f 6f 67 6c 
+0040 65 61 70 69 73 03 63  6f 6d 00 00 01 00 01 c0 0c 
+0050 00 01 00 01 00 00 00  29 00 04 d8 3a cc 6a c0 0c 
+0060 00 01 00 01 00 00 00  29 00 04 d8 3a c9 ea c0 0c 
+0070 00 01 00 01 00 00 00  29 00 04 d8 3a cc 8a c0 0c 
+0080 00 01 00 01 00 00 00  29 00 04 8e fa b3 4a c0 0c 
+0090 00 01 00 01 00 00 00  29 00 04 ac d9 12 ca c0 0c 
+00a0 00 01 00 01 00 00 00  29 00 04 d8 3a d5 aa c0 0c 
+00b0 00 01 00 01 00 00 00  29 00 04 8e fa c9 aa c0 0c 
+00c0 00 01 00 01 00 00 00  29 00 04 d8 3a d1 ea c0 0c 
+00d0 00 01 00 01 00 00 00  29 00 04 d8 3a c6 ca c0 0c 
+00e0 00 01 00 01 00 00 00  29 00 04 d8 3a d6 aa c0 0c 
+00f0 00 01 00 01 00 00 00  29 00 04 d8 3a ce ea c0 0c 
+0100 00 01 00 01 00 00 00  29 00 04 8e fa b2 8a c0 0c 
+0110 00 01 00 01 00 00 00  29 00 04 8e fa 4a ea c0 0c 
+0120 00 01 00 01 00 00 00  29 00 04 8e fa 4b ea c0 0c 
+0130 00 01 00 01 00 00 00  29 00 04 d8 3a d5 8a c0 0c 
+0140 00 01 00 01 00 00 00  29 00 04 8e fa b3 6a 
+
+
+Ethernet II 
+    Destination : (c0:e4:34:39:a0:3b)
+    Source Address : (0a:c5:e1:c4:74:12)
+    IPv4 (0x0800)
+
+Internet Protocol
+    Version : 4
+    IP Header Length : 20 bytes (5)
+    Tos : 0x00
+    Total Length : 320
+    Identifier : 0x9b16
+    Flags : 0x4
+    Fragment offset : 0
+    Time to Live : 64
+    Protocol : UDP (17)
+    Checksum : Oxc6d4
+    Source Address : 192.168.43.1
+    Destination Address : 192.168.43.112
+
+User Datagram Protocol, Src Port : 53, Dst Port : 46569
+    Source Port : 53
+    Destination Port : 46569
+    Length: 0x012c (300 Bytes)
+    Checksum : Oxcc26
+
+    Domain Name System
+        Transaction ID: 0x2f1a
+        Flags : 0x8180
+               Message is a query (0)
+               Query (0)
+               No value, message is a query (0)
+               Not Truncated
+               Recursion Not Desired
+               No value, message is a query (0)
+               Reserved (000)
+               No Error (0)
+        Questions: 1
+        Answer RRs: 16
+        Authority RRs: 0
+        Additional RRS: 0
+        Queries: 
+                 www.googleapis.com
+                 RRType: A
+                 Class: INTERNET
+                
+        Answers: 
+                Name: www.googleapis.com
+                Type: A
+                Class: INTERNET
+                Time to live: 41 (s)
+                Data length: 4 bytes
+                Data: IPv4 Address: 216.58.204.106
+
+                Name: www.googleapis.com
+                Type: A
+                Class: INTERNET
+                Time to live: 41 (s)
+                Data length: 4 bytes
+                Data: IPv4 Address: 216.58.201.234
+
+                Name: www.googleapis.com
+                Type: A
+                Class: INTERNET
+                Time to live: 41 (s)
+                Data length: 4 bytes
+                Data: IPv4 Address: 216.58.204.138
+
+                Name: www.googleapis.com
+                Type: A
+                Class: INTERNET
+                Time to live: 41 (s)
+                Data length: 4 bytes
+                Data: IPv4 Address: 142.250.179.74
+
+                Name: www.googleapis.com
+                Type: A
+                Class: INTERNET
+                Time to live: 41 (s)
+                Data length: 4 bytes
+                Data: IPv4 Address: 172.217.18.202
+
+                Name: www.googleapis.com
+                Type: A
+                Class: INTERNET
+                Time to live: 41 (s)
+                Data length: 4 bytes
+                Data: IPv4 Address: 216.58.213.170
+
+                Name: www.googleapis.com
+                Type: A
+                Class: INTERNET
+                Time to live: 41 (s)
+                Data length: 4 bytes
+                Data: IPv4 Address: 142.250.201.170
+
+                Name: www.googleapis.com
+                Type: A
+                Class: INTERNET
+                Time to live: 41 (s)
+                Data length: 4 bytes
+                Data: IPv4 Address: 216.58.209.234
+
+                Name: www.googleapis.com
+                Type: A
+                Class: INTERNET
+                Time to live: 41 (s)
+                Data length: 4 bytes
+                Data: IPv4 Address: 216.58.198.202
+
+                Name: www.googleapis.com
+                Type: A
+                Class: INTERNET
+                Time to live: 41 (s)
+                Data length: 4 bytes
+                Data: IPv4 Address: 216.58.214.170
+
+                Name: www.googleapis.com
+                Type: A
+                Class: INTERNET
+                Time to live: 41 (s)
+                Data length: 4 bytes
+                Data: IPv4 Address: 216.58.206.234
+
+                Name: www.googleapis.com
+                Type: A
+                Class: INTERNET
+                Time to live: 41 (s)
+                Data length: 4 bytes
+                Data: IPv4 Address: 142.250.178.138
+
+                Name: www.googleapis.com
+                Type: A
+                Class: INTERNET
+                Time to live: 41 (s)
+                Data length: 4 bytes
+                Data: IPv4 Address: 142.250.74.234
+
+                Name: www.googleapis.com
+                Type: A
+                Class: INTERNET
+                Time to live: 41 (s)
+                Data length: 4 bytes
+                Data: IPv4 Address: 142.250.75.234
+
+                Name: www.googleapis.com
+                Type: A
+                Class: INTERNET
+                Time to live: 41 (s)
+                Data length: 4 bytes
+                Data: IPv4 Address: 216.58.213.138
+
+                Name: www.googleapis.com
+                Type: A
+                Class: INTERNET
+                Time to live: 41 (s)
+                Data length: 4 bytes
+                Data: IPv4 Address: 142.250.179.106
+
+                
+        Authority:
+                 
+        Additional Records: 
+----------------------------------------------------------------------------------
+
+
+0000 c0 e4 34 39 a0 3b 0a  c5 e1 c4 74 12 08 00 45 00 
+0010 00 69 9e c4 40 00 40  11 c3 fd c0 a8 2b 01 c0 a8 
+0020 2b 70 00 35 af f4 00  55 c9 6d ee 65 81 80 00 01 
+0030 00 02 00 00 00 00 08  63 6c 69 65 6e 74 73 34 06 
+0040 67 6f 6f 67 6c 65 03  63 6f 6d 00 00 01 00 01 c0 
+0050 0c 00 05 00 01 00 00  00 52 00 0c 07 63 6c 69 65 
+0060 6e 74 73 01 6c c0 15  c0 31 00 01 00 01 00 00 00 
+0070 c1 00 04 d8 3a d7 2e 
+
+
+Ethernet II 
+    Destination : (c0:e4:34:39:a0:3b)
+    Source Address : (0a:c5:e1:c4:74:12)
+    IPv4 (0x0800)
+
+Internet Protocol
+    Version : 4
+    IP Header Length : 20 bytes (5)
+    Tos : 0x00
+    Total Length : 105
+    Identifier : 0x9ec4
+    Flags : 0x4
+    Fragment offset : 0
+    Time to Live : 64
+    Protocol : UDP (17)
+    Checksum : Oxc3fd
+    Source Address : 192.168.43.1
+    Destination Address : 192.168.43.112
+
+User Datagram Protocol, Src Port : 53, Dst Port : 45044
+    Source Port : 53
+    Destination Port : 45044
+    Length: 0x0055 (85 Bytes)
+    Checksum : Oxc96d
+
+    Domain Name System
+        Transaction ID: 0xee65
+        Flags : 0x8180
+               Message is a query (0)
+               Query (0)
+               No value, message is a query (0)
+               Not Truncated
+               Recursion Not Desired
+               No value, message is a query (0)
+               Reserved (000)
+               No Error (0)
+        Questions: 1
+        Answer RRs: 2
+        Authority RRs: 0
+        Additional RRS: 0
+        Queries: 
+                 clients4.google.com
+                 RRType: A
+                 Class: INTERNET
+                
+        Answers: 
+                Name: clients4.google.com
+                Type: CNAME
+                Class: INTERNET
+                Time to live: 82 (s)
+                Data length: 12 bytes
+                Data: CNAME: clients.l.google.com
+
+                Name: clients.l.google.com
+                Type: A
+                Class: INTERNET
+                Time to live: 193 (s)
+                Data length: 4 bytes
+                Data: IPv4 Address: 216.58.215.46
+
+                
+        Authority:
+                 
+        Additional Records: 
+----------------------------------------------------------------------------------
+
+
+0000 c0 e4 34 39 a0 3b 0a  c5 e1 c4 74 12 08 00 45 00 
+0010 00 74 a1 42 40 00 40  11 c1 74 c0 a8 2b 01 c0 a8 
+0020 2b 70 00 35 bc 3b 00  60 b7 ca d4 74 81 80 00 01 
+0030 00 02 00 00 00 00 03  6c 68 33 11 67 6f 6f 67 6c 
+0040 65 75 73 65 72 63 6f  6e 74 65 6e 74 03 63 6f 6d 
+0050 00 00 01 00 01 c0 0c  00 05 00 01 00 01 4d 08 00 
+0060 11 0c 67 6f 6f 67 6c  65 68 6f 73 74 65 64 01 6c 
+0070 c0 10 c0 37 00 01 00  01 00 00 00 4c 00 04 ac d9 
+0080 16 81 
+
+
+Ethernet II 
+    Destination : (c0:e4:34:39:a0:3b)
+    Source Address : (0a:c5:e1:c4:74:12)
+    IPv4 (0x0800)
+
+Internet Protocol
+    Version : 4
+    IP Header Length : 20 bytes (5)
+    Tos : 0x00
+    Total Length : 116
+    Identifier : 0xa142
+    Flags : 0x4
+    Fragment offset : 0
+    Time to Live : 64
+    Protocol : UDP (17)
+    Checksum : Oxc174
+    Source Address : 192.168.43.1
+    Destination Address : 192.168.43.112
+
+User Datagram Protocol, Src Port : 53, Dst Port : 48187
+    Source Port : 53
+    Destination Port : 48187
+    Length: 0x0060 (96 Bytes)
+    Checksum : Oxb7ca
+
+    Domain Name System
+        Transaction ID: 0xd474
+        Flags : 0x8180
+               Message is a query (0)
+               Query (0)
+               No value, message is a query (0)
+               Not Truncated
+               Recursion Not Desired
+               No value, message is a query (0)
+               Reserved (000)
+               No Error (0)
+        Questions: 1
+        Answer RRs: 2
+        Authority RRs: 0
+        Additional RRS: 0
+        Queries: 
+                 lh3.googleusercontent.com
+                 RRType: A
+                 Class: INTERNET
+                
+        Answers: 
+                Name: lh3.googleusercontent.com
+                Type: CNAME
+                Class: INTERNET
+                Time to live: 85256 (s)
+                Data length: 17 bytes
+                Data: CNAME: googlehosted.l.googleusercontent.com
+
+                Name: googlehosted.l.googleusercontent.com
+                Type: A
+                Class: INTERNET
+                Time to live: 76 (s)
+                Data length: 4 bytes
+                Data: IPv4 Address: 172.217.22.129
+
+                
+        Authority:
+                 
+        Additional Records: 
+----------------------------------------------------------------------------------
